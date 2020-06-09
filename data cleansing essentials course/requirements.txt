@@ -1,0 +1,9 @@
+## Please list additional packages with version numbers
+pandas
+matplotlib
+numpy
+seaborn
+scikit-learn
+scipy
+yellowbrick
+plotly
